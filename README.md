@@ -1,4 +1,4 @@
-# Spotify Music Charts
+#   Spotify Music Charts
 
 Lab members : Jason Wang & Rima Bazerji
 
